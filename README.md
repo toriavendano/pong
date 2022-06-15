@@ -5,7 +5,7 @@
 </h1>
 
 ## 📖 Descrição do projeto 
-<p> Pong é um jogo clássico com temática de tênis de mesa, originalmente lançado pela Atari em 1972. Esse jogo foi desenvolvido com auxílio do curso do instrutor Guilherme Silveira da Alura, e objetiva recriar o jogo Pong.</p>
+<p> Pong é um jogo clássico com temática de tênis de mesa, originalmente lançado pela Atari em 1972. Aqui foi desenvolvida uma versão do jogo com o auxílio do curso do instrutor Guilherme Lima da Alura.</p>
 
 ## ⌛ Status
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
@@ -18,7 +18,6 @@
 - Aperte a tecla Espaço;
 - Tecla para cima move a raquete para cima;
 - Tecla para baixo move a raquete para baixo.
-
 
 ## 👩‍🎤 Desenvolvido por
 
